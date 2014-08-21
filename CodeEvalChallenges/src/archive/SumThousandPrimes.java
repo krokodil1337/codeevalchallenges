@@ -1,5 +1,6 @@
+package archive;
 import java.util.ArrayList;
-public class Main {
+public class SumThousandPrimes {
 	private static final int MAX_N = 1000;
 	public static void main(String[] args) {
 		int i = 2; 
